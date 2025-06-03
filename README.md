@@ -11,7 +11,7 @@
 
 ## 💼 What I'm doing
 
-- 👨‍💻 Co-founder of **Horizon** – an AI-powered motorcycle HUD for safer rides ([Innovation Labs finalist 🚀](https://www.innovationlabs.ro/))
+- 👨‍💻 Co-founder of [Horizon 🏍️](https://www.horizon-hud.eu/) – an AI-powered motorcycle HUD for safer rides ([Innovation Labs finalist 🚀](https://www.innovationlabs.ro/))
 - 📱 Developed **WalkSafe**, a mobile app that helps pedestrians find safer routes based on AQI, shade, benches, and green areas
 - 💼 Currently interning at **Computacenter** in Cluj-Napoca
 - 🧪 Participated in national hackathons, where I built **MedScan**, an LLM-based medical leaflet parser
@@ -33,8 +33,8 @@
 | Project     | Description |
 |-------------|-------------|
 | 🏍️ [Horizon](https://github.com/ioan-vlad-pantiru/horizon-hud) | AI HUD for motorcycles. Highlights road signs, vehicles, pedestrians. Built with TensorFlow Lite & React Native |
-| 🚶 [WalkSafe](https://github.com/ioan-vlad-pantiru/walksafe) | Safe route navigation app using custom tags like AQI, shade, benches, and crime data |
-| 💊 MedScan | LLM-based medical leaflet parser and Q&A tool. Developed during a national hackathon |
+| 🚶 [WalkSafe](https://github.com/ioan-vlad-pantiru/WalkSafe) | Safe route navigation app using custom tags like AQI, shade, benches, and crime data |
+| 💊 [MedScan](https://github.com/ioan-vlad-pantiru/MedScan) | LLM-based medical leaflet parser and Q&A tool. Developed during a national hackathon |
 
 ---
 
