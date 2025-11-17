@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ioan-Vlad Pantiru
 
-🎓 I'm a 2nd year Artificial Intelligence student at Babeș-Bolyai University, passionate about building intelligent systems with real-world impact.
+🎓 I'm a 3rd year Artificial Intelligence student at Babeș-Bolyai University, passionate about building intelligent systems with real-world impact.
 
 ![AI Student](https://img.shields.io/badge/role-AI%20Student-blue)
 ![Innovation Labs](https://img.shields.io/badge/Innovation%20Labs-Finalist-yellow)
